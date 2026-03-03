@@ -1,5 +1,5 @@
 # PythonOOPs-concept
-This repo conatis the OOPS concept
+This repo consist of  the OOPS concept in python
 <br>
 1.Class
 2.object
